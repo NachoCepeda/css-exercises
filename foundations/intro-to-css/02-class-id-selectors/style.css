@@ -1,19 +1,19 @@
 /* Add CSS Styling */
-.paragraph {
-    font-family: Verdana, DejaVu Sans , sans-serif;
-    color: #e27785;
+.odd {
+    font-family: Verdana, "DejaVu Sans" , sans-serif;
+    background-color: #e27785;
 }
 
-.biggerParagraph {
+#theSecond {
+    color: #0000ff;
+    font-size: 36px;  
+}
+
+.theThird {
     font-size: 24px;   
 }
-
-#divN1 {
-    color: blue;
-    font-size: 36px;    
-}
-
-#divN2 {
+  
+#theFourth {
     background-color: rgb(95, 216, 95);
     font-size: 24px;
     font-weight: bold;    
